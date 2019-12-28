@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a6726594-a6c3-4859-bbaf-d852116b3d32" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/project/model/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/model/Course.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,7 @@
       <workItem from="1577063214646" duration="932000" />
       <workItem from="1577064507198" duration="729000" />
       <workItem from="1577552357833" duration="87000" />
-      <workItem from="1577563427336" duration="1926000" />
+      <workItem from="1577563427336" duration="3813000" />
     </task>
     <servers />
   </component>
