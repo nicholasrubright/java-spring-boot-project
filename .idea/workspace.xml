@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6726594-a6c3-4859-bbaf-d852116b3d32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/riot_api_java.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/model/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/model/Course.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,8 +41,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/Downloads/riot-api-java.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../School Projects/AlbumProjectFinal" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -72,6 +72,9 @@
       <workItem from="1576985631043" duration="1005000" />
       <workItem from="1577053790009" duration="1018000" />
       <workItem from="1577063214646" duration="932000" />
+      <workItem from="1577064507198" duration="729000" />
+      <workItem from="1577552357833" duration="87000" />
+      <workItem from="1577563427336" duration="1926000" />
     </task>
     <servers />
   </component>
@@ -79,25 +82,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1577563804104">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1577563804104" />
     <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser" timestamp="1577063718427">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1577063718427" />
-    <state x="100" y="85" key="FileChooserDialogImpl" timestamp="1577054121117">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1577565349126">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="100" y="85" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577054121117" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577565349126" />
+    <state x="473" y="116" key="FileChooserDialogImpl" timestamp="1577563676945">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="473" y="116" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577563676945" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1577054137588">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577054137588" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1577064506857">
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1577563427371">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577064506857" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577563427370" />
     <state x="0" y="0" width="742" height="680" key="find.popup" timestamp="1576985373051">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="0" y="0" width="742" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1576985373051" />
+    <state x="91" y="0" key="new project wizard" timestamp="1577552443661">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1577552443661" />
   </component>
 </project>

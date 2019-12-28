@@ -21,6 +21,14 @@ public class Course {
         this.cCredits = cCredits;
     }
 
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
     public String getcID() {
         return cID;
     }
