@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6726594-a6c3-4859-bbaf-d852116b3d32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/model/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/model/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +27,8 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -36,14 +45,40 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../School Projects/AlbumProjectFinal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../School Projects/nrubrightPS6" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Java_Spring_Project.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.project.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -73,7 +108,12 @@
       <workItem from="1577063214646" duration="932000" />
       <workItem from="1577064507198" duration="729000" />
       <workItem from="1577552357833" duration="87000" />
-      <workItem from="1577563427336" duration="3813000" />
+      <workItem from="1577563427336" duration="4866000" />
+      <workItem from="1577589784071" duration="648000" />
+      <workItem from="1577858248450" duration="2667000" />
+      <workItem from="1578235127406" duration="111000" />
+      <workItem from="1578235308540" duration="8820000" />
+      <workItem from="1578246129783" duration="309000" />
     </task>
     <servers />
   </component>
@@ -81,6 +121,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Notifications" timestamp="1578235224722">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1578235224722" />
     <state x="233" y="0" key="#Project_Structure" timestamp="1577563804104">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -93,18 +137,50 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577565349126" />
-    <state x="473" y="116" key="FileChooserDialogImpl" timestamp="1577563676945">
+    <state x="473" y="116" key="FileChooserDialogImpl" timestamp="1578235465968">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="473" y="116" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577563676945" />
+    <state x="473" y="116" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1578235465968" />
+    <state width="595" height="17" key="GridCell.Tab.0.bottom" timestamp="1577860920050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="17" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577860920050" />
+    <state width="595" height="17" key="GridCell.Tab.0.center" timestamp="1577860920050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="17" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577860920050" />
+    <state width="595" height="17" key="GridCell.Tab.0.left" timestamp="1577860920050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="17" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577860920050" />
+    <state width="595" height="17" key="GridCell.Tab.0.right" timestamp="1577860920050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="17" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577860920050" />
+    <state width="595" height="17" key="GridCell.Tab.1.bottom" timestamp="1577860920051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="17" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577860920051" />
+    <state width="595" height="17" key="GridCell.Tab.1.center" timestamp="1577860920050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="17" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1577860920050" />
+    <state width="595" height="17" key="GridCell.Tab.1.left" timestamp="1577860920050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="17" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1577860920050" />
+    <state width="595" height="17" key="GridCell.Tab.1.right" timestamp="1577860920051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="17" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1577860920051" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1577054137588">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577054137588" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1577563427371">
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1578235321565">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577563427370" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578235321565" />
     <state x="0" y="0" width="742" height="680" key="find.popup" timestamp="1576985373051">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
